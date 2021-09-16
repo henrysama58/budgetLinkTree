@@ -1,4 +1,4 @@
-# poorLinkTree
+# Henry's Budget LinkTree
 I didn't want to pay for a linktree for my socials and everything, so I decided to make it one of my personal projects/portfolio in a way where I can display my engineer and producer hobbies simutaneously.
 
 This project uses HTML and CSS to design a simple Linktree style website for me to display my personal hobbies to whoever wants to know me.
