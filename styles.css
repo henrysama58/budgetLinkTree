@@ -1,10 +1,13 @@
-﻿body {
-
+body {
     background: black;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     letter-spacing: 2px;
+    background-image: url("assets/background1.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
 }
 
 img {
