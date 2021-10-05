@@ -7,7 +7,6 @@
 Users should be able to:
 
 - Build a single page website from scratch using very minimal assets to guide the process
-- No googling (ironic)
 
 ### Screenshot
 
